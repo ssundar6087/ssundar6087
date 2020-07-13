@@ -17,8 +17,8 @@
 <hr>
 <p align="center">
   <p align="center">
-    <a href="https://twitter.com/DSaience" alt="Twitter"><img src=""></a>
-    <a href="https://www.linkedin.com/in/sairam-sundaresan/" alt="Linkedin"><img src=""></a>
+    <a href="https://twitter.com/DSaience" alt="Twitter"><img src="https://raw.githubusercontent.com/ssundar6087/ssundar6087/master/assets/twitter_svg.svg"></a>
+    <a href="https://www.linkedin.com/in/sairam-sundaresan/" alt="Linkedin"><img src="https://raw.githubusercontent.com/ssundar6087/ssundar6087/master/assets/linkedin_svg.svg"></a>
   </p>
   
 </p>
