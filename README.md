@@ -10,12 +10,13 @@
 - :coffee: &nbsp; I am a coffee ~~addict~~ _afficionado_ and make it a point to try the coffee at **every** city I visit
 - :books: &nbsp; I have an ever increasing book collection so if you find something fun to read, drop a note :wink:
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=ssundar6087&show_icons=true)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![My github stats](https://github-readme-stats.vercel.app/api?username=ssundar6087&show_icons=true)
 
  
 
 <hr>
 <p align="center">
+  <i>Elsewhere on the internet</i>
   <p align="center">
     <a href="https://twitter.com/DSaience" alt="Twitter"><img src="https://raw.githubusercontent.com/ssundar6087/ssundar6087/master/assets/twitter_svg.svg"></a>
     <a href="https://www.linkedin.com/in/sairam-sundaresan/" alt="Linkedin"><img src="https://raw.githubusercontent.com/ssundar6087/ssundar6087/master/assets/linkedin_svg.svg"></a>
