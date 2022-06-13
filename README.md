@@ -4,7 +4,7 @@
 
 - 💻  &nbsp; I'm a Computer Vision and Machine Learning research engineer by day
 - :boom:  &nbsp;  I'm very interested in Object tracking, Computational Photography, 3D Reconstruction and Interaction (AR/VR)
-- :pencil2: &nbsp; I occasionally ramble on about computer vision and deep learning on my [blog](www.artofsaience.com) and at [Weights and Biases](https://app.wandb.ai/sairam6087)
+- :pencil2: &nbsp; I occasionally ramble on about computer vision and deep learning on my [blog](https://www.artofsaience.com) and at [Weights and Biases](https://app.wandb.ai/sairam6087)
 - :sunrise_over_mountains: &nbsp; I enjoy photographing landscapes
 - :nerd_face: &nbsp; I continue to try to figure out Kaggle in my free time
 - :coffee: &nbsp; I am a coffee ~~addict~~ _afficionado_ and make it a point to try the coffee at **every** city I visit
