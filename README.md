@@ -6,11 +6,11 @@
 
 **AI Engineering Leader · Author · Educator**
 
-My work sits at the edge where AI meets the physical world. I lead AI/ML research at [Valeo](https://valeo.com), building the perception systems that teach autonomous vehicles to understand their surroundings. Since 2019, I've been ML Lead at [NASA's Frontier Development Lab](https://frontierdevelopmentlab.org), working on projects that study the Sun: Starspots, Solar Wind, and reconstructing the solar surface. Teams I've mentored have had their work accepted at NeurIPS.
+I lead AI/ML research at [Valeo](https://valeo.com), where my team builds computer vision for production autonomous vehicles. Since 2019, I've been ML Lead at [NASA's Frontier Development Lab](https://frontierdevelopmentlab.org), running projects on solar physics: Starspots, Solar Wind, and reconstructing the Sun's surface. Teams I've mentored have published at NeurIPS.
 
-Before Valeo, I spent years at Intel Labs and Qualcomm working on a specific problem: making AI run on the hardware people actually carry. At Qualcomm, that meant the FastCV library, Touch to Track, and real-time 3D reconstruction on mobile. If you've used a phone that can track your face or reconstruct a scene from its camera, some of that pipeline was already in place. The work showed up in Forbes and shipped in consumer devices. At Intel Labs, the focus shifted to algorithm-hardware co-design and multimodal models: writing AI that knows, at design time, what chip it will run on. Several patents and publications came out of both.
+Earlier: eight years across Intel Labs and Qualcomm. At Qualcomm, I built the FastCV library, Touch to Track, and real-time 3D reconstruction for mobile. That work was covered in Forbes; some of it shipped in consumer devices. At Intel Labs, I focused on algorithm-hardware co-design and multimodal models. Several patents and publications from both.
 
-Most technical writing about AI asks you to become technical first. I write for the people who don't have that option: product managers, executives, and analysts at premier VC firms who make decisions about AI and need fluency they can actually use. Gradient Ascent, my weekly newsletter for 27,000+ readers, does that every week. AI for the Rest of Us (Bloomsbury, 2025) does it in book form.
+Gradient Ascent, my weekly newsletter, has 27,000 readers. The range runs from ML engineers and PhD students to product managers, executives, and VC analysts. In 2025, Bloomsbury published AI for the Rest of Us, an illustrated introduction to AI that treats the reader as intelligent without assuming a technical background.
 
 *MSc, Electrical Engineering (Computer Vision + ML), University of Michigan. Award-winning nature photographer and illustrator.*
 
