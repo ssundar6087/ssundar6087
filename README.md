@@ -6,13 +6,13 @@
 
 **AI Engineering Leader · Author · Educator**
 
-My work sits at the edge where AI meets the physical world. I lead AI/ML research at [Valeo](https://valeo.com), building perception systems for autonomous vehicles. Since 2019, I've been ML Lead at [NASA's Frontier Development Lab](https://frontierdevelopmentlab.org), applying machine learning to heliophysics, space weather prediction, and problems that don't fit on a standard product roadmap. Before that: Intel Labs and Qualcomm. Dozens of patents and publications. Systems running in cars and datacenters worldwide.
+My work sits at the edge where AI meets the physical world. I lead AI/ML research at [Valeo](https://valeo.com), building the perception systems that teach autonomous vehicles to understand their surroundings. Since 2019, I've been ML Lead at [NASA's Frontier Development Lab](https://frontierdevelopmentlab.org), working on projects that study the Sun: Starspots, Solar Wind, and reconstructing the solar surface. Teams I've mentored have had their work accepted at NeurIPS.
 
-Featured in Forbes. Ranked the #1 AI creator on LinkedIn in India.
+Before Valeo, I did deep learning research at Intel Labs, focused on algorithm-hardware co-design and multimodal models. Before that, Qualcomm, where I worked on the FastCV library, Touch to Track, and real-time 3D reconstruction on mobile devices. Some of that work was featured in Forbes and found its way into consumer devices. Along the way, several patents and publications.
 
-In 2025, I published AI for the Rest of Us (Bloomsbury) because the people making consequential AI decisions often can't challenge what engineers tell them. Every week, 27,000 readers get Gradient Ascent: one research-backed idea about AI, written for people who are serious about the field.
+An educator at heart, I write Gradient Ascent every week for 27,000+ readers: product managers at top tech companies, CEOs, analysts at premier VC firms, and anyone trying to engage seriously with AI without getting lost in the jargon. In 2025, I published AI for the Rest of Us (Bloomsbury), an illustrated introduction built for that same audience.
 
-*MSc, Electrical Engineering (Computer Vision + ML), University of Michigan.*
+*MSc, Electrical Engineering (Computer Vision + ML), University of Michigan. Award-winning nature photographer and illustrator.*
 
 ---
 
