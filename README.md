@@ -4,7 +4,7 @@
 
 # Hi, I'm Sairam
 
-**AI Engineering Leader · Author · Educator**
+### **AI Engineering Leader · Author · Educator**
 
 I lead AI/ML research at [Valeo](https://valeo.com), where my team builds computer vision for production autonomous vehicles. Since 2019, I've been ML Lead at [NASA's Frontier Development Lab](https://frontierdevelopmentlab.org), running projects on solar physics: Starspots, Solar Wind, and reconstructing the Sun's surface. Teams I've mentored have published at NeurIPS.
 
