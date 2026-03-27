@@ -10,7 +10,7 @@ I lead AI/ML research at [Valeo](https://valeo.com), where my team builds comput
 
 Earlier: eight years across Intel Labs and Qualcomm. At Qualcomm, I built the FastCV library, Touch to Track, and real-time 3D reconstruction for mobile. That work was covered in Forbes; some of it shipped in consumer devices. At Intel Labs, I focused on algorithm-hardware co-design and multimodal models. Several patents and publications from both.
 
-Gradient Ascent, my weekly newsletter, has 27,000 readers. The range runs from ML engineers and PhD students to product managers, executives, and VC analysts. In 2025, Bloomsbury published AI for the Rest of Us, an illustrated introduction to AI that treats the reader as intelligent without assuming a technical background.
+Gradient Ascent, my weekly newsletter, has 27,000 readers. My readers come from diverse backgrounds, from ML engineers and PhD students to product managers, executives, and VC analysts from over 160 countries worldwide. In 2025, Bloomsbury published AI for the Rest of Us, an illustrated introduction to AI that treats the reader as intelligent without assuming a technical background.
 
 *MSc, Electrical Engineering (Computer Vision + ML), University of Michigan. Award-winning nature photographer and illustrator.*
 
