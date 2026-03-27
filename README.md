@@ -1,21 +1,41 @@
 <img src="https://raw.githubusercontent.com/ssundar6087/vision-and-words/master/images/LR_Jokulsarlon-3-2.jpg">
 
-### Hey, I'm Sairam &nbsp; :wave:
+## Hi, I'm Sairam 👋
 
-- 💻  &nbsp; I'm a Computer Vision and Machine Learning research engineer by day
-- :boom:  &nbsp;  I'm very interested in Object tracking, Computational Photography, 3D Reconstruction and Interaction (AR/VR)
-- :pencil2: &nbsp; I occasionally ramble on about computer vision and deep learning on my [blog](https://www.artofsaience.com) and at [Weights and Biases](https://app.wandb.ai/sairam6087)
-- :sunrise_over_mountains: &nbsp; I enjoy photographing landscapes
-- :nerd_face: &nbsp; I continue to try to figure out Kaggle in my free time
-- :coffee: &nbsp; I am a coffee ~~addict~~ _afficionado_ and make it a point to try the coffee at **every** city I visit
-- :books: &nbsp; I have an ever increasing book collection so if you find something fun to read, drop a note :wink:
+AI Engineering Leader · Author · Researcher
 
-<hr>
-<p align="center">
-  <i>Find me elsewhere on the web :earth_americas:</i>
-  <p align="center">
-    <a href="https://twitter.com/DSaience" alt="Twitter"><img src="https://raw.githubusercontent.com/ssundar6087/ssundar6087/master/assets/twitter_svg.svg"></a>
-    <a href="https://www.linkedin.com/in/sairam-sundaresan/" alt="Linkedin"><img src="https://raw.githubusercontent.com/ssundar6087/ssundar6087/master/assets/linkedin_svg.svg"></a>
-  </p>
-  
-</p>
+I lead AI/ML research at [Valeo](https://valeo.com), building the computer vision systems that power autonomous vehicles. Previously at Intel Labs and Qualcomm. Since 2019, I've been ML Lead at [NASA's Frontier Development Lab](https://frontierdevelopmentlab.org), where interdisciplinary teams apply AI to space science and heliophysics.
+
+MSc, Electrical Engineering (Computer Vision + ML) — University of Michigan.
+
+---
+
+## 📖 Book
+
+**[AI for the Rest of Us: An Illustrated Introduction](https://www.amazon.com/AI-Rest-Us-Illustrated-Introduction/dp/B0F29THNLT)**
+*Bloomsbury · 2025*
+
+An illustrated guide that demystifies AI for professionals and business leaders. Machine learning, natural language, computer vision, recommenders — explained clearly, buzzwords stripped out, no sci-fi required.
+
+[Amazon](https://www.amazon.com/AI-Rest-Us-Illustrated-Introduction/dp/B0F29THNLT) · [Barnes & Noble](https://www.barnesandnoble.com/w/ai-for-the-rest-of-us-sairam-sundaresan/1147236404)
+
+---
+
+## ✍️ Newsletter
+
+**[Gradient Ascent](https://newsletter.artofsaience.com)**
+Weekly writing on AI and ML for people who want more than headlines. 25,000+ readers.
+
+[Subscribe →](https://newsletter.artofsaience.com)
+
+---
+
+## 🛠️ Building
+
+- **[Sparkly](https://github.com/ssundar6087/sparkly)** — AI tool that turns ideas into LinkedIn infographics
+
+---
+
+## 📬 Find me
+
+[artofsaience.com](https://artofsaience.com) · [X @DSaience](https://twitter.com/DSaience) · [LinkedIn](https://www.linkedin.com/in/sairam-sundaresan/)
