@@ -10,7 +10,7 @@ I've spent 15 years building ML systems that actually ship: in cars, chips, and 
 
 In 2025, I wrote a book about AI for the people who need to understand it but don't have a PhD. I also write a weekly newsletter for 27,000+ readers who want more than headlines.
 
-*MSc, Electrical Engineering (Computer Vision + ML) — University of Michigan.*
+*MSc, Electrical Engineering (Computer Vision + ML), University of Michigan.*
 
 ---
 
