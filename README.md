@@ -4,11 +4,13 @@
 
 # Hi, I'm Sairam
 
-**AI Engineering Leader · Author · Researcher**
+**AI Engineering Leader · Author · Educator**
 
-I've spent 15 years building ML systems that actually ship: in cars, chips, and spacecraft. I currently lead AI/ML research at [Valeo](https://valeo.com), where my team builds the computer vision that lets autonomous vehicles understand the world around them. Before that, Intel Labs and Qualcomm, working at the intersection of AI algorithms and silicon. Since 2019, I've been ML Lead at [NASA's Frontier Development Lab](https://frontierdevelopmentlab.org), where interdisciplinary teams apply AI to space weather prediction, heliophysics, and problems you don't normally find on a product roadmap.
+My work sits at the edge where AI meets the physical world. I lead AI/ML research at [Valeo](https://valeo.com), building perception systems for autonomous vehicles. Since 2019, I've been ML Lead at [NASA's Frontier Development Lab](https://frontierdevelopmentlab.org), applying machine learning to heliophysics, space weather prediction, and problems that don't fit on a standard product roadmap. Before that: Intel Labs and Qualcomm. Dozens of patents and publications. Systems running in cars and datacenters worldwide.
 
-In 2025, I wrote a book about AI for the people who need to understand it but don't have a PhD. I also write a weekly newsletter for 27,000+ readers who want more than headlines.
+Featured in Forbes. Ranked the #1 AI creator on LinkedIn in India.
+
+In 2025, I published AI for the Rest of Us (Bloomsbury) because the people making consequential AI decisions often can't challenge what engineers tell them. Every week, 27,000 readers get Gradient Ascent: one research-backed idea about AI, written for people who are serious about the field.
 
 *MSc, Electrical Engineering (Computer Vision + ML), University of Michigan.*
 
